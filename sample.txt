@@ -1,0 +1,88 @@
+                                                <section class="elementor-section elementor-inner-section elementor-element elementor-element-1e0bc40 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="1e0bc40" data-element_type="section"
+                                                    data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+                                                    <div class="elementor-container elementor-column-gap-no"> 
+                                                        <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-a6dd1a8" data-id="a6dd1a8" data-element_type="column">
+                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-element elementor-element-c28cb6f elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="c28cb6f" data-element_type="widget" data-widget_type="image-box.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image-box-wrapper">
+                                                                            
+                                                                            <div class="elementor-image-box-content">
+                                                                                <h3 class="elementor-image-box-title"></h3>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-a6dd1a8" data-id="a6dd1a8" data-element_type="column">
+                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-element elementor-element-c28cb6f elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="c28cb6f" data-element_type="widget" data-widget_type="image-box.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image-box-wrapper">
+                                                                            <a href="#"> <figure class="elementor-image-box-img"><img decoding="async" width="505" height="505" src="psg.png" class="attachment-full size-full wp-image-3850" alt=""
+                                                                                    srcset="psg.png 505w, psg.png 300w, psg.png 150w"
+                                                                                    sizes="(max-width: 505px) 100vw, 505px" /></figure> </a>
+                                                                            <div class="elementor-image-box-content">
+                                                                                <h3 class="elementor-image-box-title">PSG College of Technology</h3>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-c58b7d4" data-id="c58b7d4" data-element_type="column">
+                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-element elementor-element-e93871d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="e93871d" data-element_type="widget" data-widget_type="image-box.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image-box-wrapper">
+                                                                            <a href=""> <figure class="elementor-image-box-img"><img decoding="async" width="504" height="505" src="isse_new.png" class="attachment-full size-full wp-image-3851" alt=""
+                                                                                    srcset="isse_new.png 504w, isse_new.png 300w, isse_new.png 150w"
+                                                                                    sizes="(max-width: 504px) 100vw, 504px" /></figure> </a>
+                                                                            <div class="elementor-image-box-content">
+                                                                                 <h3 class="elementor-image-box-title">Indian Society of Systems for Science and Engineering (ISSE)</h3>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-b5c5313" data-id="b5c5313" data-element_type="column">
+                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-element elementor-element-b05135d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="b05135d" data-element_type="widget" data-widget_type="image-box.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image-box-wrapper">
+                                                                            <a href="">  <figure class="elementor-image-box-img"><img decoding="async" width="600" height="600" src="care_new.jpeg" class="attachment-full size-full wp-image-3863" alt="" srcset="care_new.jpeg 600w, care_new.jpeg 300w, care_new.jpeg 150w"
+                                                                                    sizes="(max-width: 600px) 100vw, 600px" /></figure>
+                                                                            <div class="elementor-image-box-content">
+                                                                                <h3 class="elementor-image-box-title">PSG CARE-Center for Academic Research and Excellence</h3> </a>
+                                                                                <p class="elementor-image-box-description">
+                                                                                </p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </section>
+
+
+2. <section class="elementor-section elementor-inner-section elementor-element elementor-element-881f0e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="881f0e8" data-element_type="section">
+                                                    <div class="elementor-container elementor-column-gap-default">
+                                                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-acf1b8f" data-id="acf1b8f" data-element_type="column">
+                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-element elementor-element-f851803 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="f851803" data-element_type="widget"
+                                                                    data-widget_type="image-box.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-image-box-wrapper"></div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </section>
+
+
+3.video 2978
+

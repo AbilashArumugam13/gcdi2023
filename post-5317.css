@@ -1,0 +1,124 @@
+.elementor-5317 .elementor-element.elementor-element-936eef7>.elementor-container {
+    max-width: 600px
+}
+
+.elementor-5317 .elementor-element.elementor-element-936eef7 {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 0
+}
+
+.elementor-5317 .elementor-element.elementor-element-936eef7,
+.elementor-5317 .elementor-element.elementor-element-936eef7>.elementor-background-overlay {
+    border-radius: 12px 12px 12px 12px
+}
+
+.elementor-5317 .elementor-element.elementor-element-936eef7>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-5317 .elementor-element.elementor-element-175e120:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-5317 .elementor-element.elementor-element-175e120>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000
+}
+
+.elementor-5317 .elementor-element.elementor-element-175e120>.elementor-element-populated {
+    border-style: none;
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin: 0;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 0
+}
+
+.elementor-5317 .elementor-element.elementor-element-175e120>.elementor-element-populated,
+.elementor-5317 .elementor-element.elementor-element-175e120>.elementor-element-populated>.elementor-background-overlay,
+.elementor-5317 .elementor-element.elementor-element-175e120>.elementor-background-slideshow {
+    border-radius: 12px 12px 12px 12px
+}
+
+.elementor-5317 .elementor-element.elementor-element-175e120>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-5317 .elementor-element.elementor-element-abcf3af img {
+    border-style: none;
+    border-radius: 12px 12px 12px 12px
+}
+
+.elementor-5317 .elementor-element.elementor-element-abcf3af>.elementor-widget-container {
+    margin: 0;
+    padding: 0
+}
+
+#elementor-popup-modal-5317 .dialog-message {
+    width: 600px;
+    height: auto;
+    padding: 0
+}
+
+#elementor-popup-modal-5317 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: #00000085
+}
+
+#elementor-popup-modal-5317 .dialog-close-button {
+    display: flex;
+    top: 0%;
+    background-color: #508ba400;
+    font-size: 30px
+}
+
+#elementor-popup-modal-5317 .dialog-widget-content {
+    animation-duration: 1.2s;
+    border-style: none;
+    border-radius: 12px 12px 12px 12px;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, .2);
+    margin: 0
+}
+
+body:not(.rtl) #elementor-popup-modal-5317 .dialog-close-button {
+    right: -8%
+}
+
+body.rtl #elementor-popup-modal-5317 .dialog-close-button {
+    left: -8%
+}
+
+#elementor-popup-modal-5317 .dialog-close-button i {
+    color: #fff
+}
+
+#elementor-popup-modal-5317 .dialog-close-button svg {
+    fill: #fff
+}
+
+@media(max-width:1024px) {
+    #elementor-popup-modal-5317 .dialog-message {
+        width: 75vw
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-5317 .elementor-element.elementor-element-936eef7:not(.elementor-motion-effects-element-type-background),
+    .elementor-5317 .elementor-element.elementor-element-936eef7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image: url(#);
+        background-repeat: no-repeat;
+        background-size: cover
+    }
+    #elementor-popup-modal-5317 .dialog-message {
+        width: 95vw
+    }
+    #elementor-popup-modal-5317 .dialog-close-button {
+        top: -10%;
+        font-size: 25px
+    }
+    body:not(.rtl) #elementor-popup-modal-5317 .dialog-close-button {
+        right: 0%
+    }
+    body.rtl #elementor-popup-modal-5317 .dialog-close-button {
+        left: 0%
+    }
+}

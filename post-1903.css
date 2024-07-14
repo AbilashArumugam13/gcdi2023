@@ -1,0 +1,240 @@
+.elementor-1903 .elementor-element.elementor-element-165161c:not(.elementor-motion-effects-element-type-background),
+.elementor-1903 .elementor-element.elementor-element-165161c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff00
+}
+
+.elementor-1903 .elementor-element.elementor-element-165161c {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 1px
+}
+
+.elementor-1903 .elementor-element.elementor-element-165161c>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-1903 .elementor-element.elementor-element-50c7b5e>.elementor-element-populated {
+    padding: 0
+}
+
+.elementor-1903 .elementor-element.elementor-element-2d2cd4d:not(.elementor-motion-effects-element-type-background),
+.elementor-1903 .elementor-element.elementor-element-2d2cd4d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff00
+}
+
+.elementor-1903 .elementor-element.elementor-element-2d2cd4d {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0% 3% 0% 2%
+}
+
+.elementor-1903 .elementor-element.elementor-element-2d2cd4d>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-bc-flex-widget .elementor-1903 .elementor-element.elementor-element-a05d85b.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-1903 .elementor-element.elementor-element-a05d85b.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-1903 .elementor-element.elementor-element-a05d85b>.elementor-element-populated {
+    padding: 2px 0
+}
+
+.elementor-1903 .elementor-element.elementor-element-a6487e7 {
+    width: auto;
+    max-width: auto;
+    align-self: center
+}
+
+.elementor-bc-flex-widget .elementor-1903 .elementor-element.elementor-element-fd92c81.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-1903 .elementor-element.elementor-element-fd92c81.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-1903 .elementor-element.elementor-element-fd92c81.elementor-column>.elementor-widget-wrap {
+    justify-content: flex-end
+}
+
+.elementor-1903 .elementor-element.elementor-element-f7ee1c1 img {
+    width: 40px
+}
+
+.elementor-1903 .elementor-element.elementor-element-f7ee1c1 {
+    width: auto;
+    max-width: auto;
+    align-self: center
+}
+
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown a,
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-menu-toggle {
+    color: #fff
+}
+
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown {
+    background-color: var( --e-global-color-secondary)
+}
+
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown a:hover,
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown a.highlighted,
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-menu-toggle:hover {
+    color: var( --e-global-color-text)
+}
+
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown a:hover,
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown a.elementor-item-active,
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown a.highlighted {
+    background-color: var( --e-global-color-secondary)
+}
+
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown a.elementor-item-active {
+    color: var( --e-global-color-text)
+}
+
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown .elementor-item,
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown .elementor-sub-item {
+    font-family: open sans, Sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -.5px
+}
+
+.elementor-1903 .elementor-element.elementor-element-e7d0600 .elementor-nav-menu--dropdown a {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+#elementor-popup-modal-1903 .dialog-message {
+    width: 100vw;
+    height: 100vh;
+    align-items: flex-start
+}
+
+#elementor-popup-modal-1903 {
+    justify-content: center;
+    align-items: center
+}
+
+#elementor-popup-modal-1903 .dialog-close-button {
+    display: flex
+}
+
+#elementor-popup-modal-1903 .dialog-widget-content {
+    animation-duration: .3s;
+    background-color: #042944;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, .2)
+}
+
+@media(max-width:1024px) {
+    .elementor-1903 .elementor-element.elementor-element-2d2cd4d {
+        padding: 0 10px
+    }
+    .elementor-1903 .elementor-element.elementor-element-f7ee1c1 img {
+        width: 30px
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1903 .elementor-element.elementor-element-2d2cd4d {
+        padding: 0 0 0 10px
+    }
+    .elementor-1903 .elementor-element.elementor-element-a05d85b {
+        width: 30%
+    }
+    .elementor-1903 .elementor-element.elementor-element-fd92c81 {
+        width: 70%
+    }
+    .elementor-1903 .elementor-element.elementor-element-f7ee1c1 img {
+        width: 24px
+    }
+    .elementor-1903 .elementor-element.elementor-element-f7ee1c1 {
+        width: auto;
+        max-width: auto
+    }
+    .elementor-1903 .elementor-element.elementor-element-e7d0600>.elementor-widget-container {
+        margin: 50px 0 100px
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-1903 .elementor-element.elementor-element-a05d85b {
+        width: 15%
+    }
+    .elementor-1903 .elementor-element.elementor-element-fd92c81 {
+        width: 85%
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-1903 .elementor-element.elementor-element-a05d85b {
+        width: 30%
+    }
+    .elementor-1903 .elementor-element.elementor-element-fd92c81 {
+        width: 70%
+    }
+}
+
+.elementor-1903 .elementor-element.elementor-element-165161c.elementor-sticky--effects {
+    background-color: #fff !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, .1)
+}
+
+.elementor-1903 .elementor-element.elementor-element-165161c {
+    transition: background-color .5s ease !important;
+    z-index: 99;
+    position: absolute;
+    top: 0
+}
+
+.elementor-1903 .elementor-element.elementor-element-165161c.elementor-sticky--effects #menu-color a {
+    color: #000;
+    transition: color .5s ease !important
+}
+
+.elementor-1903 .elementor-element.elementor-element-165161c.elementor-sticky--effects #hamburger img {
+    content: url(https://avpn.asia/wp-content/uploads/2021/05/icons-hamburger-black.png)
+}
+
+.elementor-1903 .elementor-element.elementor-element-165161c #hamburger img {
+    content: url(https://avpn.asia/wp-content/uploads/2021/05/icons-hamburger.png)
+}
+
+.elementor-1903 .elementor-element.elementor-element-165161c.elementor-sticky--effects #logo-shrink img {
+    width: 100px !important;
+    padding: 0;
+    content: url(https://avpn.asia/conference/wp-content/uploads/2022/03/AVPN-Global-Conference-2023-Yayasan-Hasanah-Colored.png)
+}
+
+.elementor-1903 .elementor-element.elementor-element-165161c #logo-shrink img {
+    width: 120px !important;
+    transition: width .5s ease, padding .5s ease !important;
+    padding: 15px 0 10px;
+    content: url(https://avpn.asia/conference/wp-content/uploads/2022/03/AVPN-Global-Conference-2023-Yayasan-Hasanah-Colored.png)
+}
+
+.elementor-element-8afebc5 {
+    width: auto !important
+}
+
+@media only screen and (max-width:480px) {
+    .elementor-1903 .elementor-element.elementor-element-165161c.elementor-sticky--effects #logo-shrink img {
+        width: 90px !important;
+        padding: 5px 0
+    }
+    .elementor-1903 .elementor-element.elementor-element-165161c #logo-shrink img {
+        width: 90px !important;
+        transition: width .5s ease, padding .5s ease !important;
+        padding: 5px 0
+    }
+}

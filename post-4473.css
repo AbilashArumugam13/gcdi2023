@@ -1,0 +1,175 @@
+.elementor-4473 .elementor-element.elementor-element-536570e3:not(.elementor-motion-effects-element-type-background),
+.elementor-4473 .elementor-element.elementor-element-536570e3>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-text)
+}
+
+.elementor-4473 .elementor-element.elementor-element-536570e3,
+.elementor-4473 .elementor-element.elementor-element-536570e3>.elementor-background-overlay {
+    border-radius: 12px 12px 12px 12px
+}
+
+.elementor-4473 .elementor-element.elementor-element-536570e3 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 30px 0 30px 20px
+}
+
+.elementor-4473 .elementor-element.elementor-element-536570e3>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-bc-flex-widget .elementor-4473 .elementor-element.elementor-element-56c81c2f.elementor-column .elementor-widget-wrap {
+    align-items: center
+}
+
+.elementor-4473 .elementor-element.elementor-element-56c81c2f.elementor-column.elementor-element[data-element_type=column]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center
+}
+
+.elementor-4473 .elementor-element.elementor-element-56c81c2f>.elementor-element-populated {
+    margin: 0% 5% 0% 0%;
+    --e-column-margin-right: 5%;
+    --e-column-margin-left: 0%
+}
+
+.elementor-4473 .elementor-element.elementor-element-06ac8de,
+.elementor-4473 .elementor-element.elementor-element-06ac8de>.elementor-background-overlay {
+    border-radius: 8px 8px 8px 8px
+}
+
+.elementor-4473 .elementor-element.elementor-element-cb23865:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-4473 .elementor-element.elementor-element-cb23865>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-text)
+}
+
+.elementor-4473 .elementor-element.elementor-element-cb23865>.elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 20px 0 0 10px
+}
+
+.elementor-4473 .elementor-element.elementor-element-cb23865>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-4473 .elementor-element.elementor-element-04a6c59 {
+    text-align: left
+}
+
+.elementor-4473 .elementor-element.elementor-element-04a6c59 .elementor-heading-title {
+    color: var( --e-global-color-secondary)
+}
+
+.elementor-4473 .elementor-element.elementor-element-4338551:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-4473 .elementor-element.elementor-element-4338551>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-text)
+}
+
+.elementor-4473 .elementor-element.elementor-element-4338551>.elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 20px 10px 0 0
+}
+
+.elementor-4473 .elementor-element.elementor-element-4338551>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-4473 .elementor-element.elementor-element-ce6cf51 {
+    text-align: right
+}
+
+.elementor-4473 .elementor-element.elementor-element-ce6cf51 .elementor-heading-title {
+    color: var( --e-global-color-secondary)
+}
+
+.elementor-4473 .elementor-element.elementor-element-2623497:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-4473 .elementor-element.elementor-element-2623497>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-text)
+}
+
+.elementor-4473 .elementor-element.elementor-element-2623497>.elementor-element-populated {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s
+}
+
+.elementor-4473 .elementor-element.elementor-element-2623497>.elementor-element-populated>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-4473 .elementor-element.elementor-element-9366c5c {
+    --divider-border-style: solid;
+    --divider-color: #000;
+    --divider-border-width: 1px
+}
+
+.elementor-4473 .elementor-element.elementor-element-9366c5c .elementor-divider-separator {
+    width: 100%
+}
+
+.elementor-4473 .elementor-element.elementor-element-9366c5c .elementor-divider {
+    padding-top: 15px;
+    padding-bottom: 15px
+}
+
+.elementor-4473 .elementor-element.elementor-element-0618056 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(0px/2)
+}
+
+.elementor-4473 .elementor-element.elementor-element-0618056 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(0px/2)
+}
+
+.elementor-4473 .elementor-element.elementor-element-0618056 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(0px/2);
+    margin-left: calc(0px/2)
+}
+
+.elementor-4473 .elementor-element.elementor-element-0618056 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-0px/2);
+    margin-left: calc(-0px/2)
+}
+
+body.rtl .elementor-4473 .elementor-element.elementor-element-0618056 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-0px/2)
+}
+
+body:not(.rtl) .elementor-4473 .elementor-element.elementor-element-0618056 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-0px/2)
+}
+
+.elementor-4473 .elementor-element.elementor-element-0618056 .elementor-icon-list-icon i {
+    transition: color .3s
+}
+
+.elementor-4473 .elementor-element.elementor-element-0618056 .elementor-icon-list-icon svg {
+    transition: fill .3s
+}
+
+.elementor-4473 .elementor-element.elementor-element-0618056 {
+    --e-icon-list-icon-size: 20px;
+    --icon-vertical-offset: 0px
+}
+
+.elementor-4473 .elementor-element.elementor-element-0618056 .elementor-icon-list-text {
+    transition: color .3s
+}
+
+.elementor-4473 .elementor-element.elementor-element-0618056>.elementor-widget-container {
+    padding: 0 0 0 30px
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-4473 .elementor-element.elementor-element-56c81c2f {
+        width: 60%
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-4473 .elementor-element.elementor-element-536570e3 {
+        padding: 0 20px 20px
+    }
+    .elementor-4473 .elementor-element.elementor-element-56c81c2f>.elementor-element-populated {
+        margin: 20px 0 0;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0
+    }
+}

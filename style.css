@@ -1,0 +1,163 @@
+@charset "UTF-8";
+html, body {
+  height: 100%;
+  font-size: 20px;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 1em;
+  margin: 0;
+  line-height: 1.5;
+  background-color: #444;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+/* main ie fix */
+main {
+  display: block;
+}
+
+/* headers */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.25;
+  font-family: "Roboto Slab", Times, "Times New Roman", serif;
+}
+
+/* anchor links */
+a {
+  text-decoration: none;
+}
+a:hover, a:active {
+  text-decoration: underline;
+}
+a:visited {
+  color: purple;
+}
+
+/* form elements */
+label {
+  display: inline-block;
+  font-weight: 700;
+}
+
+select, textarea, input {
+  width: 100%;
+  padding: 0.5em;
+  margin: 0;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #333;
+}
+
+input[type=submit] {
+  cursor: pointer;
+}
+
+/* input border bottom animation on focus */
+.input-animate {
+  position: relative;
+  transition: color 200ms ease-in-out;
+}
+.input-animate:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  border-bottom: solid 3px;
+  color: mediumspringgreen;
+  transition: width 200ms ease-in-out;
+}
+
+.input-animate-target {
+  border: none;
+}
+.input-animate-target:focus, .input-animate-target:valid {
+  outline: none;
+}
+.input-animate-target:focus ~ .input-animate:before, .input-animate-target:valid ~ .input-animate:before {
+  width: 100%;
+}
+
+/* font awesome */
+.fa {
+  font-family: FontAwesome;
+  font-style: normal;
+}
+
+/* flex */
+.flex-cont {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+/* form */
+.form-cont {
+  max-width: 100%;
+  padding: 2em;
+  border-radius: 3px;
+  margin: auto;
+  background-color: #eee;
+  box-shadow: 0 3px 7px 0 rgba(0, 0, 0, 0.5);
+}
+
+.form-heading {
+  margin-top: 0;
+  text-align: center;
+}
+
+.form-row {
+  position: relative;
+  margin-top: 1em;
+}
+
+.form-label {
+  margin-bottom: 0.2em;
+}
+
+.form-textbox:valid ~ .form-check-icon:after {
+  content: "";
+  position: absolute;
+  right: 0.5em;
+  bottom: 0.4em;
+  font-family: FontAwesome;
+  font-style: normal;
+  color: mediumspringgreen;
+}
+
+.form-submit {
+  display: block;
+  width: 75%;
+  padding: 1em;
+  border: none;
+  margin: 2em auto 0;
+  background-color: mediumspringgreen;
+  font-weight: 700;
+  color: white;
+  transition: opacity 200ms ease-in-out;
+}
+.form-submit:hover, .form-submit:focus {
+  opacity: 0.6;
+}
+
+@media only screen and (max-width: 768px) {
+  html, body {
+    font-size: 18px;
+  }
+}
+@media only screen and (max-width: 640px) {
+  html, body {
+    font-size: 16px;
+  }
+}
